@@ -1,0 +1,536 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:1635272504632afbc747720442ef2874511945f35df433687e73c1b5f633dac4&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/047e4a127947eff3c7d861cc2f113186/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\047e4a127947eff3c7d861cc2f113186\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/26c9f99963f016735739c7de412de1e1/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\26c9f99963f016735739c7de412de1e1\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/45fd33a620da2e44653e6a92c96d9446/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\45fd33a620da2e44653e6a92c96d9446\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/8245e211b4cc1aeef31861f9c55143e5/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\8245e211b4cc1aeef31861f9c55143e5\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/a03d95df41ccb7c2ab8a9e9ebcd4cf8a/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\a03d95df41ccb7c2ab8a9e9ebcd4cf8a\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/c8042d925d6656dd077f15192d13bb8f/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\c8042d925d6656dd077f15192d13bb8f\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://bitrix2.cdnvideo.ru/b3482257/resize_cache/7392/eb45a9f96698d396483d7a1236fe0380/landing/1f9/1f9f21e77420f51142f70119a574e969/20174363.png?h=sv2279701.bitrix24.ru
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\resize_cache\7392\eb45a9f96698d396483d7a1236fe0380\landing\1f9\1f9f21e77420f51142f70119a574e969\20174363.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.ru/b3482257/landing/0e5/0e5dc8de4a8195530c609a76eb84eb1b/logo_sv_2.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\landing\0e5\0e5dc8de4a8195530c609a76eb84eb1b\logo_sv_2.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.ru/b3482257/landing/3da/3dac5ccf02d6a3d2080e9bef51e64a64/photo-1488805990569-3c9e1d76d51c.jpg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\landing\3da\3dac5ccf02d6a3d2080e9bef51e64a64\photo-1488805990569-3c9e1d76d51c.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.bitrix24.ru/b3482257/landing/70e/70e0b767e98362e5f43eb966983ec696/photo-1527530462287-d0438a5819fe.jpg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\landing\70e\70e0b767e98362e5f43eb966983ec696\photo-1527530462287-d0438a5819fe.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.bitrix24.ru/b3482257/landing/9ee/9ee803e45c7b3160f508d2eff38e5226/photo-1506664453913-f326aa81f54d.jpg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\landing\9ee\9ee803e45c7b3160f508d2eff38e5226\photo-1506664453913-f326aa81f54d.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.bitrix24.ru/b3482257/landing/c5a/c5adf4750a0f3065410bf53b56d8b7e9/1.jpg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\b3482257\landing\c5a\c5adf4750a0f3065410bf53b56d8b7e9\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern1.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\patterns\pattern1.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern2.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\patterns\pattern2.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern3.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\patterns\pattern3.png
+Content Type: image/png
+
+Uri: https://cdn.envybox.io/widget/cbk.css
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\cbk.css
+Content Type: text/css
+
+Uri: https://cdn.envybox.io/widget/cbk.js?wcb_code=51f7c1e7089a58c2dd2c826ca61c9c8f
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\cbk.js
+Content Type: application/javascript
+
+Uri: https://doverim-moscow.ru/
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\index.htm
+Content Type: text/html
+
+Uri: https://doverim-moscow.ru/bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?16355193374520
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\components\bitrix\landing.pub\templates\.default\script.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?162393658937024
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\components\bitrix\landing.pub\templates\.default\style.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/images/intranet/intranet-mail-popup-arrows.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\intranet\intranet-mail-popup-arrows.png
+Content Type: image/png
+
+Uri: https://doverim-moscow.ru/bitrix/images/landing/buttons_styles/snowflakes-left.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\buttons_styles\snowflakes-left.png
+Content Type: image/png
+
+Uri: https://doverim-moscow.ru/bitrix/images/landing/buttons_styles/snowflakes-right.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\buttons_styles\snowflakes-right.png
+Content Type: image/png
+
+Uri: https://doverim-moscow.ru/bitrix/images/landing/marta.jpg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\images\landing\marta.jpg
+Content Type: image/jpeg
+
+Uri: https://doverim-moscow.ru/bitrix/js/intranet/intranet-common.min.css?156700641462422
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\intranet\intranet-common.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/js/landing/css/landing_public.min.css?1567508327250
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\landing\css\landing_public.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/js/landing/metrika/dist/metrika.bundle.min.js?16239365903054
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\landing\metrika\dist\metrika.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/core.min.js?1639745357262964
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/core_clipboard.min.js?16128673042222
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\core_clipboard.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/core_frame_cache.min.js?161614700311082
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\core_frame_cache.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/core_fx.min.js?14909536449768
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\core_fx.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/core_ls.min.js?14328944187365
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\core_ls.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/images/controls-sprite.png?1
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\images\controls-sprite.png
+Content Type: image/png
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/images/controls-sprite.png?2
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\images\controls-sprite-1.png
+Content Type: image/png
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/core/images/popup/upload-waiting.gif
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\core\images\popup\upload-waiting.gif
+Content Type: image/gif
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/pageobject/pageobject.min.js?1584117434570
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\pageobject\pageobject.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.min.js?1544619813556
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\polyfill\customevent\main.polyfill.customevent.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?15362428577124
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\polyfill\intersectionobserver\js\intersectionobserver.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.css?163646571423804
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.js?163974535762622
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/sidepanel/css/images/loader.gif
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\sidepanel\css\images\loader.gif
+Content Type: image/gif
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/sidepanel/css/sidepanel.min.css?16397453578080
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\sidepanel\css\sidepanel.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/sidepanel/manager.min.js?163974535719354
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\sidepanel\manager.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/main/sidepanel/slider.min.js?163646571430691
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\main\sidepanel\slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/pull/client/pull.client.min.js?163154765244687
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\pull\client\pull.client.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/pull/protobuf/model.min.js?159231549114190
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\pull\protobuf\model.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/pull/protobuf/protobuf.min.js?159231549176433
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\pull\protobuf\protobuf.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/rest/client/rest.client.min.js?16015491189240
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\rest\client\rest.client.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.min.js?164518139160992
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\dexie\dist\dexie.bitrix.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-bold.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-bold.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-bold.eot?
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-light.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-light.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-light.eot?
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-regular.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-regular.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-regular.eot?
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.eot?
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16202983792409
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/css/custom-grid.min.css?156933840138
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\css\custom-grid.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16454331982105
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\js\helpers\lazyload.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1645433198156519
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/et-icon/font.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\et-icon\font.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\fab\font.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff2
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\fab\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/far/font.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\far\font.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/far/font.woff2
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\far\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/icon/font.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\icon\font.woff
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/icon/icon/font.woff2
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\icon\icon\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/jquery.easing/js/jquery.easing.min.js?15675083273583
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\jquery.easing\js\jquery.easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/assets/vendor/jquery/jquery-3.2.1.min.js?156750832790987
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\assets\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/template_styles.min.css?16209889212316
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\template_styles.min.css
+Content Type: text/css
+
+Uri: https://doverim-moscow.ru/bitrix/templates/landing24/theme.min.css?1645433198581263
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\bitrix\templates\landing24\theme.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&subset=cyrillic
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\s\roboto\v29\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/38652980
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\watch\38652980
+Content Type: image/gif
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_1.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\smile_1.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_2.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\smile_2.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_3.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\smile_3.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_4.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\smile_4.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/smile_5.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\smile_5.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/24/star.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\24\star.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_1.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\smile_1.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_2.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\smile_2.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_3.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\smile_3.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_4.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\smile_4.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/smile_5.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\smile_5.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/32/star.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\32\star.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/rating/smiles.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\rating\smiles.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/smiles/sprite_smiles.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\smiles\sprite_smiles.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/sprite_social.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\sprite_social.png
+Content Type: image/png
+
+Uri: https://saas-support.com/widget/img/sprite_social_mobile.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\sprite_social_mobile.png
+Content Type: image/png
+
+Uri: https://static.saas-support.com/widget/fonts/museo/MuseoSansCyrl_500.otf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\museo\MuseoSansCyrl_500.otf
+Content Type: application/octet-stream
+
+Uri: https://static.saas-support.com/widget/fonts/museo/MuseoSansCyrl_900.otf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\museo\MuseoSansCyrl_900.otf
+Content Type: application/octet-stream
+
+Uri: https://static.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\open-sans\OpenSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.svg
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\open-sans\OpenSans-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://static.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\open-sans\OpenSans-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\open-sans\OpenSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://static.saas-support.com/widget/fonts/open-sans/OpenSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\open-sans\OpenSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoLight.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoLight.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoLight.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoLight.woff
+Content Type: font/woff
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoRegular.eot
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoRegular.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoRegular.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.saas-support.com/widget/fonts/roboto/RobotoRegular.woff
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\roboto\RobotoRegular.woff
+Content Type: font/woff
+
+Uri: https://static.saas-support.com/widget/fonts/times-new-roman/TimesNewRoman.ttf
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\fonts\times-new-roman\TimesNewRoman.ttf
+Content Type: application/octet-stream
+
+Uri: https://whitesaas.com/widget/img/dl.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\dl.png
+Content Type: image/png
+
+Uri: https://whitesaas.com/widget/img/im_emoji.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\im_emoji.png
+Content Type: image/png
+
+Uri: https://whitesaas.com/widget/img/show.png
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\widget\img\show.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-207729675-1
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\doverim-moscow.ru\iframe_api
+Content Type: text/javascript
+
